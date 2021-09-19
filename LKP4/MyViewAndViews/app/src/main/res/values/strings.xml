@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Xiaomi Poco X3 NFC merupakan handphone HP dengan kapasitas 6000mAh dan layar 6.67" yang dilengkapi dengan kamera belakang 64 + 13 + 2 + 2MP dengan tingkat densitas piksel sebesar 395ppi dan tampilan resolusi sebesar 1080 x 2400pixels. Dengan berat sebesar 225g, handphone HP ini memiliki prosesor Octa Core. Tanggal rilis untuk Xiaomi Poco X3 NFC: September 2020.</string>
+    <string name="content_specs_display">IPS LCD, 120Hz, HDR10, 450 nits (typ), 6.67 inches, 107.4 cm2 (~84.6% screen-to-body ratio)</string>
+    <string name="content_specs_size">165.3 x 76.8 x 9.4 mm (6.51 x 3.02 x 0.37 in)</string>
+    <string name="content_specs_battery">5,000 mAh battery\nStandby time (LTE): up to 35 days\nTalk time (3g/WCDMA): up to 20 hours\nInternet use time (Wi-Fi): up to 13 hours\nInternet use time (LTE): up to 16 hours\nVideo playback: up to 16 hours\nAudio playback (via headset): up to 120 hours\nFast charging: up to 18 hours of use from only 15 minutes of charging</string>
+    <string name="_6_photos">6 Photos</string>
+    <string name="_735">$399</string>
+    <string name="stock_hanya_5_buah">Stock hanya 5 buah</string>
+    <string name="dijual_oleh">Dijual oleh</string>
+    <string name="narenda_wicaksono">Narenda Wicaksono</string>
+    <string name="beli">Beli</string>
+</resources>
